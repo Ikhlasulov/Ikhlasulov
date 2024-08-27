@@ -2,7 +2,7 @@
 
 ### I care not whether thou art present or absent.
 
-I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. I also provide services for editing photos and video/audio editing. You can reach out to me via social links for these services, with modest charges and assured quality of workmanship.
+I am a Linux Qt developer, utilizing C++ and C to create my programs. I also provide services for editing photos and video/audio editing. You can reach out to me via social links for these services, with modest charges and assured quality of workmanship.
 
 <img align="right" height="185" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikhlasulov&layout=compact" />
 
