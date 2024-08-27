@@ -1,4 +1,4 @@
-## Salam popolam, I'm [Ikhlasulov.](https://ikhlasulov.ru/)
+## Salam popolam, I'm [Ikhlasulov](https://ikhlasulov.ru/).
 
 ### I care not whether thou art present or absent.
 
