@@ -4,13 +4,11 @@
 
 I am a developer of bespoke scripts and programs tailored for the annihilation and obliteration within the Windows operating system. I also provide services for editing photos and video/audio editing. You can reach out to me via social links for these services, with modest charges and assured quality of workmanship.
 
-***Please note that the scripts and programs are not designed to cause harm to individuals or companies. Any actions taken with them are your responsibility, as they are provided for informational purposes only.***
-
 <img align="right" height="185" width="375" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikhlasulov&layout=compact" />
 
 ### Personal Info:
 
-- 🖨 I’m working with Batch, C, C++, C#, etc.
+- 🖨 I’m working with Batch, Qt, C, C++, etc.
 - 🧮 I’m exploring UNIX.
 - 💀 Fact: All disclaimers are but a mere cloak.
 
