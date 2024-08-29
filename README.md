@@ -1,6 +1,6 @@
 ## Salam popolam, I'm [Ikhlasulov](https://ikhlasulov.ru/).
 
-### Welcome!.
+### Welcome!
 
 I am a developer, utilizing C++ and C to create my programs. I also provide services for editing photos and video/audio editing. You can reach out to me via social links for these services, with modest charges and assured quality of workmanship.
 
